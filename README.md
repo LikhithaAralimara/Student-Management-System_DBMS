@@ -23,7 +23,7 @@ This project was developed using the following tools and technologies:
 - **Web Framework**: Django, Flask
 - **Frontend Technologies**: HTML, CSS, JavaScript
 - **Version Control**:Git
-- 
+  
 ## Getting Started
 
 1. **Installation**: Clone this repository to your local machine and follow the installation instructions in the documentation.
